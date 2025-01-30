@@ -1,6 +1,6 @@
-# Anti-Doping Management System
+# RBAC Case Management System
 
-This repository contains the backend code for an Anti-Doping Management System. The system is designed to manage cases, users, and roles for anti-doping investigations.
+This repository contains the backend code for a Role Based Access Control Case Management System. The system is designed to manage cases, users, and roles.
 
 ## Models
 
